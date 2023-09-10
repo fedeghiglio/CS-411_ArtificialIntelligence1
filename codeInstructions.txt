@@ -1,0 +1,6 @@
+Code Instructions:
+
+-The code is composed by an only file: "search.py"
+-The file can be runned as it contains a main which takes as argument 16 numbers,
+ those numbers represent the values in the 16 boxes of our table.
+-The compiler used to compile this code is python 3.10.0
